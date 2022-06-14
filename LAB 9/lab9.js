@@ -1,5 +1,5 @@
 function getStringLenght(){
-    let str = new String("nesh");
+    let str = new String("Divy");
     str = prompt("Enter your Full Name :");
     let strele = document.getElementById("getString");
     strele.textContent = str.length;
